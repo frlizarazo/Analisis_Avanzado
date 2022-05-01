@@ -1,6 +1,5 @@
 %% TALLER 1 ANALISIS ESTRUCTURAL AVANZADO
 %
-% Daniel Alejandro Montoya Mejia
 % Franklin Andres Lizarazo Muñoz
 %
 %-------------------------------------------------------------------------
